@@ -1,3 +1,5 @@
 = redmine_issue_history_tabs
 
 A plugin to represent history in tabs.
+
+Modified to work with ChiliProject
